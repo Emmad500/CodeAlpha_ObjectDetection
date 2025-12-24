@@ -18,7 +18,7 @@ A high-performance computer vision application developed for the **CodeAlpha Art
 ## ⚙️ How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/CodeAlpha_ObjectDetection.git](https://github.com/Emmmad500/CodeAlpha_ObjectDetection.git)
+    git clone [https://github.com/Emmad500/CodeAlpha_ObjectDetection.git](https://github.com/Emmmad500/CodeAlpha_ObjectDetection.git)
     ```
 2.  **Install dependencies:**
     ```bash
@@ -34,4 +34,5 @@ A high-performance computer vision application developed for the **CodeAlpha Art
 ## 👨‍💻 Author
 **Emad**
 * AI & Full Stack Developer
+
 * CodeAlpha Intern
